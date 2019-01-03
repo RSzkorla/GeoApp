@@ -1,0 +1,11 @@
+D:\Programowanie\GeoAppServer\GeoAppServer\bin\Debug\netcoreapp2.0\GeoAppServer.deps.json
+D:\Programowanie\GeoAppServer\GeoAppServer\bin\Debug\netcoreapp2.0\GeoAppServer.runtimeconfig.json
+D:\Programowanie\GeoAppServer\GeoAppServer\bin\Debug\netcoreapp2.0\GeoAppServer.runtimeconfig.dev.json
+D:\Programowanie\GeoAppServer\GeoAppServer\bin\Debug\netcoreapp2.0\GeoAppServer.dll
+D:\Programowanie\GeoAppServer\GeoAppServer\bin\Debug\netcoreapp2.0\GeoAppServer.pdb
+D:\Programowanie\GeoAppServer\GeoAppServer\obj\Debug\netcoreapp2.0\GeoAppServer.csprojResolveAssemblyReference.cache
+D:\Programowanie\GeoAppServer\GeoAppServer\obj\Debug\netcoreapp2.0\GeoAppServer.csproj.CoreCompileInputs.cache
+D:\Programowanie\GeoAppServer\GeoAppServer\obj\Debug\netcoreapp2.0\GeoAppServer.AssemblyInfoInputs.cache
+D:\Programowanie\GeoAppServer\GeoAppServer\obj\Debug\netcoreapp2.0\GeoAppServer.AssemblyInfo.cs
+D:\Programowanie\GeoAppServer\GeoAppServer\obj\Debug\netcoreapp2.0\GeoAppServer.dll
+D:\Programowanie\GeoAppServer\GeoAppServer\obj\Debug\netcoreapp2.0\GeoAppServer.pdb
