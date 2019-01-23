@@ -1,23 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using GeoAppServer.BLL;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 
 namespace GeoAppServer.Controllers
 {
   [Route("api/[controller]")]
   public class QuestionController : Controller
   {
-    private static readonly List<Question> _questions = GenerateQuestions();
+    private static readonly List<Question> _questions = new QuestionReader().GenerateQuestions();
 
-    private static List<Question> GenerateQuestions()
-    {
-      var list = new List<Question>();
-      for (var i = 0; i < 5; i++)
-        list.Add(new Question {QuestionText = "Pytanie " + i});
-      return list;
-    }
 
     // GET api/values
     [HttpGet]

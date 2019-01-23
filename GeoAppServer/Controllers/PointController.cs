@@ -2,19 +2,14 @@
 using System.Linq;
 using GeoAppServer.BLL;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 
 namespace GeoAppServer.Controllers
 {
   [Route("api/[controller]")]
   public class PointController : Controller
   {
-    private static readonly List<Point> _path = new List<Point>
-    {
-      new Point {Latitude = 49.829506, Longitude = 19.044247, NextPointId = 1, PointId = 0},
-      new Point {Latitude = 49.827107, Longitude = 19.039393, NextPointId = 2, PointId = 1},
-      new Point {Latitude = 49.824903, Longitude = 19.044350, NextPointId = 3, PointId = 2},
-      new Point {Latitude = 49.822394, Longitude = 19.044731, NextPointId = -1, PointId = 3}
-    };
+    private static readonly List<Point> _path = new PathReader().GeneratePath();
 
     // GET: api/Point 49.822394, 19.044731
 

@@ -1,0 +1,14 @@
+D:\Programowanie\GeoAppServer\GeoAppServer\bin\Release\netcoreapp2.2\GeoAppServer.deps.json
+D:\Programowanie\GeoAppServer\GeoAppServer\bin\Release\netcoreapp2.2\GeoAppServer.runtimeconfig.json
+D:\Programowanie\GeoAppServer\GeoAppServer\bin\Release\netcoreapp2.2\GeoAppServer.runtimeconfig.dev.json
+D:\Programowanie\GeoAppServer\GeoAppServer\bin\Release\netcoreapp2.2\GeoAppServer.dll
+D:\Programowanie\GeoAppServer\GeoAppServer\bin\Release\netcoreapp2.2\GeoAppServer.pdb
+D:\Programowanie\GeoAppServer\GeoAppServer\obj\Release\netcoreapp2.2\GeoAppServer.csprojAssemblyReference.cache
+D:\Programowanie\GeoAppServer\GeoAppServer\obj\Release\netcoreapp2.2\GeoAppServer.csproj.CoreCompileInputs.cache
+D:\Programowanie\GeoAppServer\GeoAppServer\obj\Release\netcoreapp2.2\GeoAppServer.RazorAssemblyInfo.cache
+D:\Programowanie\GeoAppServer\GeoAppServer\obj\Release\netcoreapp2.2\GeoAppServer.RazorAssemblyInfo.cs
+D:\Programowanie\GeoAppServer\GeoAppServer\obj\Release\netcoreapp2.2\GeoAppServer.AssemblyInfoInputs.cache
+D:\Programowanie\GeoAppServer\GeoAppServer\obj\Release\netcoreapp2.2\GeoAppServer.AssemblyInfo.cs
+D:\Programowanie\GeoAppServer\GeoAppServer\obj\Release\netcoreapp2.2\GeoAppServer.RazorTargetAssemblyInfo.cache
+D:\Programowanie\GeoAppServer\GeoAppServer\obj\Release\netcoreapp2.2\GeoAppServer.dll
+D:\Programowanie\GeoAppServer\GeoAppServer\obj\Release\netcoreapp2.2\GeoAppServer.pdb
